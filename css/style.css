@@ -284,5 +284,9 @@ tr:nth-child(2n) {
     .slide img {
         max-height: 250px;
     }
+
+    .img-despre {
+        max-height: 250px;
+    }
 }
 
