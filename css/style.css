@@ -109,7 +109,7 @@ hr {
 
 .img-limbaj:hover {
     transform: scale(1.1);
-    transition: all linear 1,5s;
+    transition: all linear 1.5s;
 }
 
 .col-1 {width: 10%;}
