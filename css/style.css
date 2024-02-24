@@ -219,7 +219,8 @@ tr:nth-child(2n) {
 }
 
 .tabel-date {
-    overflow-x: scroll;
+    overflow-x: auto;
+    max-width: 100%;
 }
 
 .slideshow-container {
