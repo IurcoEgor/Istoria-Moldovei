@@ -291,4 +291,8 @@ tr:nth-child(2n) {
         max-height: 250px;
         box-shadow: 4px 4px 10px black;
     }
+
+    .img-leg {
+        width: 50%;
+    }
 }
