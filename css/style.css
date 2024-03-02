@@ -295,4 +295,9 @@ tr:nth-child(2n) {
     .img-leg {
         width: 50%;
     }
+
+    .img-limbaj {
+        margin-top: 4px;
+        max-height: 125px;
+    }
 }
