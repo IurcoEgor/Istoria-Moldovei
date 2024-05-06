@@ -162,7 +162,12 @@ hr {
 
 .container-iframe {
     margin: auto;
-    padding: 10px;
+    padding: 0px 0px 10px 10px;
+}
+
+.container-iframe iframe {
+    width: 100%;
+    height: 20vw;
 }
 
 .img-despre {
@@ -300,5 +305,15 @@ tr:nth-child(2n) {
     .img-limbaj {
         margin-top: 4px;
         max-height: 125px;
+    }
+
+        .container-iframe {
+        margin: auto;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .container-iframe iframe {
+        width: 100%;
+        height: 50vw;
     }
 }
